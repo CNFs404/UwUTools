@@ -26,7 +26,7 @@
 ## 运行截图🖼️
 ### 主程序样式🌈
 <img src="https://github.com/user-attachments/assets/daf47973-4091-429e-97e0-5a570ffcef4f" width="46%">
-<img src="https://github.com/user-attachments/assets/a286a023-8f63-43c5-a074-c2fa089918d5" width="48%" height="176px">
+<img src="https://github.com/user-attachments/assets/a286a023-8f63-43c5-a074-c2fa089918d5" width="48%" height="200%">
 
 
 ### 悬浮窗样式🌈
